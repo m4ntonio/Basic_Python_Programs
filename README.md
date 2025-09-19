@@ -2,7 +2,7 @@
 ![Custom badge](https://img.shields.io/badge/Notebook-Python%203.10+-blue?logo=python)
 ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/m4ntonio/Basic_Python_Programs)
-![License](https://img.shields.io/badge/License-CC--BY-lightgrey)
+![License](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey)
 
 ## Visão Geral
 

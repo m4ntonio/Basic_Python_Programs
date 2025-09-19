@@ -1,7 +1,8 @@
 # 140 Programas básicos em Python
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![License](https://img.shields.io/badge/License-CC--BY-lightgrey)
+![Custom badge](https://img.shields.io/badge/Notebook-Python%203.10+-blue?logo=python)
 ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/m4ntonio/Basic_Python_Programs)
+![License](https://img.shields.io/badge/License-CC--BY-lightgrey)
 
 ## Visão Geral
 

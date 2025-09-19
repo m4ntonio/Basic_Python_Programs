@@ -1,9 +1,9 @@
 # 140 Programas básicos em Python
-
-## Visão Geral
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/License-CC--BY-lightgrey)
 ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
+## Visão Geral
 
 Boas-vindas a este repositório incrível! 🎉  
 Esta coleção contém mais de **140 programas básicos em Python**, projetados para ajudar você a se preparar para entrevistas.  
